@@ -2,8 +2,6 @@
 
 This documentation outlines the steps I took to set up and manage the "PLPBasicGitAssignment" repository on GitHub.
 
-## Task 1: Repository Setup
-
 ### 1. GitHub Repository Creation
 
 1. I logged in to my GitHub account.
@@ -13,8 +11,6 @@ This documentation outlines the steps I took to set up and manage the "PLPBasicG
    - I named the repository "PLPBasicGitAssignment."
    - I initialized the repository with a README file.
    - I clicked "Create repository."
-
-## Task 2: Local Setup
 
 ### 2. Local Folder Setup
 
