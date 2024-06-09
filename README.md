@@ -33,7 +33,7 @@ This documentation outlines the steps I took to set up and manage the "PLPBasicG
 ### 4. Connecting to GitHub
 1. I linked my local repository to the GitHub repository:
    ```
-   git remote add origin [<repository-url>](https://github.com/your-username/PLPBasicGitAssignment.git)
+   git remote add origin https://github.com/Garycoco/PLPBasicGitAssignment.git
    
    ```
 ### 5. Create a File
